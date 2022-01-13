@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="submit_button">Submit Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unkown">Unkown</string>
+
+    <string name="clear">Clear</string>
+    <string name="mostly_clear">Mostly Clear</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="fog">Fog</string>
+    <string name="light_fog">Light Fog</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="flurries">Flurries</string>
+    <string name="light_snow">Light Snow</string>
+    <string name="snow">Snow</string>
+    <string name="heavy_snow">Heavy Snow</string>
+    <string name="light_ice_pellets">Light Ice Pellets</string>
+    <string name="ice_pellets">Ice Pellets</string>
+    <string name="heavy_ice_pellets">Heavy Ice Pellets</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="freezing_drizzle">Freezing Drizzle</string>
+    <string name="light_freezing_rain">Light Freezing Rain</string>
+    <string name="freezing_rain">Freezing Rain</string>
+    <string name="heavy_freezing_rain">Heavy Freezing Rain</string>
+    <string name="light_rain">Light Rain</string>
+    <string name="rain">Rain</string>
+    <string name="heavy_rain">Heavy Rain</string>
+    <string name="light_wind">Light Wind</string>
+    <string name="wind">Wind</string>
+    <string name="strong_wind">Strong Wind</string>
+    <string name="secret_key">com.weatherapp</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="temperature">Temperature</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="ozone">Ozone</string>
+</resources>
